@@ -56,7 +56,7 @@ Automated installation script untuk deploy n8n self-hosted di Ubuntu/Debian deng
 
 ```bash
 # Download script
-curl -O https://raw.githubusercontent.com/your-repo/install-n8n.sh
+curl -O https://raw.githubusercontent.com/bangden07/n8n-Automatic-Installation-Script/refs/heads/main/install-n8n.sh
 
 # Beri permission
 chmod +x install-n8n.sh
